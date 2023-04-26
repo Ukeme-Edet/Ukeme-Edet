@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me:
 👋 Hi, I’m Ukeme Edet<br>👀 I’m interested in Frontend Web Developmentt<br>🌱 I’m currently learning the angular framework<br>💞️ I’m looking to collaborate on frontend web apps<br>📫 You can reach me via email through ukemeedet2207@gmail.com
 
 
