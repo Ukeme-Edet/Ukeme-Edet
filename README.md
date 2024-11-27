@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center">Hi 👋, I'm Ukeme Edet</h1>
-<h3 align="center">A dedicated backend engineer and software engineering student at ALX and Unilag 🎓. Specializing in Python, Flask, FastAPI, and Angular, I focus on building robust APIs to drive impactful solutions 🚀. Let’s connect and share ideas on #WebDev, #BackendEngineering, and #OpenSource! 🌍</h3>
+<h3 align="center">A dedicated backend engineer and software engineering student at ALX and Unilag 🎓. Specializing in Python, Flask, FastAPI, and Angular.</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Microservices and GraphQL<br><br>👨‍💻 All of my projects are available at https://ukeme-edet.github.io/My-Resume<br><br>💬 Ask me about Flask, FastAPI and anything Backend<br><br>📫 How to reach me ukemeeded2207@gmail.com
